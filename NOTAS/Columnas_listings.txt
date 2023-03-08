@@ -1,0 +1,106 @@
+1. id: ids por airbnb en la comunidad de Madrid.
+2. listing_url: url de cada airbnb.
+3. scrape_id: fecha de la extracción de los datos.
+4. last_scraped: fecha de la última extracción.
+5. name: nombre del airbnb en la web.
+6. summary: resumen del airbnb.	
+7. space: descripción del propietario sobre el airbnb.	
+8. description: descripción más detallada con referecias a la zona de Madrid.
+9. experiences_offered: lleno de valores nulos. //
+10. neighborhood_overview: descripción del barrio de ubicación hecha por el propietario.	
+11. notes: anotaciones del propietario.	
+12. transit: más anotaciones del host.	
+13. access: anotaciones para el acceso.	
+14. interaction: más anotaciones.
+15. house_rules: normas y restricciones del piso.
+16. thumbnail_url: nulos //	
+17. medium_url: nulos //
+18. picture_url: url de la foto //
+19. xl_picture_url: url foto //	
+20. host_id: número identificación del propietario.	
+20. host_url: url del host //	
+21. host_name: nombre del host //	
+22. host_since: tiempo que lleva siendo host //	
+23. host_location: localización del host //	
+24. host_about: descripción del propietario.	
+25. host_response_time: respuesta en tiempo del propietario.	
+26. host_response_rate: ratio de respuesta del host.
+27. host_acceptance_rate: nulos //	
+28. host_is_superhost: booleano si es superhost o no.	
+29. host_thumbnail_url: nulos //	
+30. host_picture_url: url de la imagen del host. //	
+31. host_neighbourhood: barrio del host. //	
+32. host_listings_count: información. //
+33. host_total_listings_count: más inofrmación. //	
+34. host_verifications: medios de verificación del host.	
+35. host_has_profile_pic:si tiene foto o no.	
+36. host_identity_verified: perfil verificado o no.	
+37. street: Comunidad de Madrid.	
+38. neighbourhood: barrio //	
+39. neighbourhood_cleansed: barrio geolocalización	
+40. neighbourhood_group_cleansed: grupo de barrio geolocalización.	
+41. city: Madrid	
+42. state: Comunidad de Madrid	
+43. zipcode: código postal //	
+44. market: 	
+45. smart_location	
+46. country_code	
+47. country	
+48. latitude	
+49. longitude	
+50. is_location_exact	
+51. property_type	
+52. room_type	
+53. accommodates	
+54. bathrooms	
+55. bedrooms	
+56. beds	
+57. bed_type	
+58. amenities	
+59. square_feet	
+60. price	
+61. weekly_price	
+62. monthly_price	
+63. security_deposit	
+64. cleaning_fee	
+65. guests_included	
+66. extra_people	
+67. minimum_nights	
+68. maximum_nights	
+69. minimum_minimum_nights	
+70. maximum_minimum_nights	
+71. minimum_maximum_nights	
+72. maximum_maximum_nights	
+73. minimum_nights_avg_ntm	
+74. maximum_nights_avg_ntm	
+75. calendar_updated	
+76. has_availability	
+77. availability_30	
+78. availability_60	
+79. availability_90	
+80. availability_365	
+81. calendar_last_scraped	
+82. number_of_reviews	
+83. number_of_reviews_ltm	
+84. first_review	
+85. last_review	
+86. review_scores_rating	
+87. review_scores_accuracy	
+88. review_scores_cleanliness	
+89. review_scores_checkin	
+90. review_scores_communication	
+91. review_scores_location	
+92. review_scores_value	
+93. requires_license	
+94. license	
+95. jurisdiction_names	
+96. instant_bookable	
+97. is_business_travel_ready	
+98. cancellation_policy	
+99. require_guest_profile_picture	
+100. require_guest_phone_verification	
+101. calculated_host_listings_count	
+102. calculated_host_listings_count_entire_homes	
+103. calculated_host_listings_count_private_rooms	
+104. calculated_host_listings_count_shared_rooms	
+105. reviews_per_month	
