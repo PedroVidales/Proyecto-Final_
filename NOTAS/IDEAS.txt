@@ -128,3 +128,10 @@ employment_type_FT
 employment_type_PT	
 company_size_M	
 company_size_S
+
+
+
+
+IDEA
+
+Además, puede intentar optimizar su función find_sentiment para que sea más rápida, por ejemplo, limitando la longitud máxima del texto de entrada o utilizando una implementación más eficiente del análisis de sentimientos. También puede considerar utilizar servicios de análisis de sentimientos en línea, como el de Google Cloud Platform o Amazon Web Services, que proporcionan una API para analizar sentimientos en grandes conjuntos de datos.
