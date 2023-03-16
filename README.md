@@ -58,5 +58,7 @@ Atendiendo a los resultados obtenidos y visualizados mediantes gráficas de libr
 1. Existe una relación clara entre la cantidad de amenities y las buenas o malas reseñas. Sería conveniente analizar en profundidad para detectar
 que amenitie o amenities son, por norma general, los que más decantan la balanza tanto en el sentido negativo del comentario como del positivo.
 
-2.Por otro lado y haciendo referencia a la ubicación del alojamiento, parece claro cuales son las zonas mas recomandables para establecer este negocio. También sería muy interesante profundizar el análisis y comprobar que factores que rodean a las zonas con mayoir ratio positivo/negativo para deliberar exactamente el lugar óptimo para establecer el alojamiento atendiendo a criterios como la comunicación, las áreas culturales,los establecimientos, etc...
+2.Por otro lado y haciendo referencia a la ubicación del alojamiento, parece claro cuales son las zonas mas recomandables para establecer este negocio. También sería muy interesante profundizar el análisis y comprobar cuales son los  factores que rodean a las zonas con mayor ratio positivo/negativo para deliberar exactamente el lugar óptimo para establecer el alojamiento atendiendo a criterios como la comunicación, las áreas culturales,los establecimientos, etc...
+
+3. El siguiente paso será realizar un estudio de la relación que tienen los comentarios negativos y positivos en función del tipo de apartamento.
 	
